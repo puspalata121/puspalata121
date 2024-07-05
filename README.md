@@ -1,3 +1,4 @@
+![logo](https://github.com/puspalata121/puspalata121/blob/main/Screenshot%20(56).png)
 <h1 align="center">Hi 👋, I'm Puspalata Sahu</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
